@@ -1,11 +1,18 @@
-<h1>Hi, I'm Manish Giri! <br/><a href="https://github.com/manish2414">Cybersecurity Learner</a>, <a href="https://www.linkedin.com/in/manishgiri24/">Programmer</a>, <a href="https://www.youtube.com/manishtechnical24">YouTuber</a></h1>
+<h1>Hi, I'm Manish Giri! <br/>
+  <a href="https://github.com/manish2414">Cybersecurity Learner</a>, <a href="https://www.linkedin.com/in/manishgiri24/">Programmer</a>, <a href="https://www.youtube.com/manishtechnical24">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>WifiPhish - a WiFi Phishing tool (HTML, PHP, Social Engineering, Phishing)</b>
-  - [Learn about Phishing and Social engineering](https://github.com/Manish2414/WifiPhish)
-- <b>Simple Caesar Encryptor (Python, Encryption, Caesar Cipher, Cryptography)</b>
-  - [Simple Encryptor using principles of Caesar Cipher and Python programming language](https://github.com/Manish2414/Simple-Caesar-Encryptor)
+- <b>Azure Sentinel - SIEM (Virtualization, SIEM, Powershell)</b>
+  - Proficiently configured an Azure Sentinel (Microsoft's cloud SIEM) workbook to visualize global attack data, specifically focusing on RDP brute force attacks, by mapping their physical locations and gauging attack magnitudes.
+  - Utilized a customized PowerShell script to extract metadata from the Windows Event Viewer, forwarding this data to a third-party API to derive geolocation information.
+- <b>[Simple Caesar Encryptor (Python, Encryption, Caesar Cipher, Cryptography)](https://github.com/Manish2414/Simple-Caesar-Encryptor)</b>
+  - Gained practical experience in encryption methods and cryptography fundamentals.
+  - Achieved a firm grasp of the Caesar Cipher encryption technique, comprehending its application in cryptography.
+- <b>[WifiPhish - a WiFi Phishing tool (HTML, PHP, Social Engineering, Phishing)](https://github.com/Manish2414/WifiPhish)</b>
+  - Designed and developed a phishing tool, WifiPhish, using Linux, PHP, and HTML to conduct ethical phishing simulations.
+  - Implemented social engineering techniques to capture WiFi passwords, measured by the tool's ability to retrieve user-entered credentials.
+  - Utilized ngrok for seamless port forwarding, enabling remote access to the phishing website.
 
 <h2>📺 Popular YouTube Videos</h2>
 
@@ -18,9 +25,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
+[<img align="left" alt="MGLinkedIn | LinkedIn" width="22px" src="https://manishg10x.com/wp-content/uploads/2023/10/linkedin-svgrepo-com.svg" />][linkedin]
 [<img align="left" alt="MGYT | YouTube" width="22px" src="https://manishg10x.com/wp-content/uploads/2023/10/youtube-svgrepo-com.svg" />][youtube]
 [<img align="left" alt="MGX | Twitter" width="22px" src="https://manishg10x.com/wp-content/uploads/2023/10/twitter-svgrepo-com.svg" />][twitter]
-[<img align="left" alt="MGLinkedIn | LinkedIn" width="22px" src="https://manishg10x.com/wp-content/uploads/2023/10/linkedin-svgrepo-com.svg" />][linkedin]
 [<img align="left" alt="MGInsta | Instagram" width="22px" src="https://manishg10x.com/wp-content/uploads/2023/10/instagram-svgrepo-com.svg" />][Instagram]
 [<img align="left" alt="MGWeb | Website" width="22px" src="https://manishg10x.com/wp-content/uploads/2023/10/website.svg" />][Website]
 
