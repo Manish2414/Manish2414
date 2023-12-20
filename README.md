@@ -1,11 +1,18 @@
 <h1>Hi, I'm Manish Giri! <br/>
-  <a href="https://github.com/manish2414">Cybersecurity Learner</a>, <a href="https://www.linkedin.com/in/manishgiri24/">Programmer</a>, <a href="https://www.youtube.com/manishtechnical24">YouTuber</a></h1>
+  <a href="https://github.com/manish2414">Cybersecurity Aspirant</a>, <a href="https://www.linkedin.com/in/manishgiri24/">Programmer</a>, <a href="https://www.youtube.com/manishtechnical24">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Azure Sentinel - SIEM (Virtualization, SIEM, Powershell)</b>
+- <b>[Home Lab for Network Security (Firewall, Suricata, Kali Linux, Intrusion Detection System, Nmap)](https://github.com/Manish2414/Home-Lab-for-Network-Security-and-Intrusion-Detection)</b>
+  - Constructed a dynamic virtualized network using VirtualBox, featuring OPNsense, Kali Linux for penetration testing, and Windows as the target system, showcasing proficiency in virtualization technologies.
+  - Configured the deployment and configuration of OPNsense as the primary firewall solution, fortifying the network against potential threats. Implemented custom Nmap rules to detect and alert scanning activities intelligently.
+  - Executed tests for intrusion detection (IDS) with Suricata, configured firewall rules, and performed vulnerability assessments. Enhanced cybersecurity measures through proactive detection, monitoring, and log analysis practices.
+- <b>[Azure Sentinel (SIEM) and Honeypot (Virtualization, SIEM, Powershell)](https://github.com/Manish2414/Azure-Sentinel-SIEM)</b>
   - Proficiently configured an Azure Sentinel (Microsoft's cloud SIEM) workbook to visualize global attack data, specifically focusing on RDP brute force attacks, by mapping their physical locations and gauging attack magnitudes.
-  - Utilized a customized PowerShell script to extract metadata from the Windows Event Viewer, forwarding this data to a third-party API to derive geolocation information.
+  - Streamlined data extraction from Windows Event Viewer with an efficient PowerShell script, integrated with a third-party API for geolocation, and represented the attacking counties in a world map.
+- <b>[Virtual Network Design and Sniffing (Network Design, Network Protocol, Wireshark)](https://github.com/Manish2414/Virtual-Network-Design-and-Sniffing)</b>
+  - Engineered the development of a detailed network design topology in VirtualBox, integrating RouterVM, PC1, and PC2; executed precise IP address assignments and routing strategies, emphasizing a robust network structure.
+  - Implemented Wireshark on PC1 and TShark on RouterVM, both running Ubuntu Linux, for in-depth analysis and sniffing of network protocols within the intricacies of the designed network topology.
 - <b>[Simple Caesar Encryptor (Python, Encryption, Caesar Cipher, Cryptography)](https://github.com/Manish2414/Simple-Caesar-Encryptor)</b>
   - Gained practical experience in encryption methods and cryptography fundamentals.
   - Achieved a firm grasp of the Caesar Cipher encryption technique, comprehending its application in cryptography.
