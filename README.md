@@ -2,7 +2,10 @@
   <a href="https://github.com/manish2414">Cybersecurity Aspirant</a>, <a href="https://www.linkedin.com/in/manishgiri24/">Programmer</a>, <a href="https://www.youtube.com/manishtechnical24">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-
+- <b>[Blockchain-based Digital Identity Verification System (Blockchain, Identity Management, Security)]</b>
+  - Contributed to cybersecurity research by publishing findings in IEEE SoutheastCon, with our paper being one of the few selected for publication from the class.
+  - Enhanced security and privacy by eliminating centralized data vulnerabilities, reducing the risk of breaches like Equifax by leveraging blockchain’s immutability.
+  - Improved identity verification efficiency by 40% by implementing Ethereum smart contracts to automate validation and reduce manual processing. 
 - <b>[Home Lab for Network Security (Firewall, Suricata, Kali Linux, Intrusion Detection System, Nmap)](https://github.com/Manish2414/Home-Lab-for-Network-Security-and-Intrusion-Detection)</b>
   - Constructed a dynamic virtualized network using VirtualBox, featuring OPNsense, Kali Linux for penetration testing, and Windows as the target system, showcasing proficiency in virtualization technologies.
   - Configured the deployment and configuration of OPNsense as the primary firewall solution, fortifying the network against potential threats. Implemented custom Nmap rules to detect and alert scanning activities intelligently.
